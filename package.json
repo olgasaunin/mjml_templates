@@ -1,0 +1,15 @@
+{
+  "name": "email-templates",
+  "version": "1.0.0",
+  "description": "1. get mjml https://mjml.io/ 2. $ npm init -y && npm install mjml 3. export PATH=\"$PATH:./node_modules/.bin\" 4. To watch and output run $ mjml --watch index.mjml -o index.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mjml": "^4.0.3"
+  }
+}
